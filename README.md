@@ -1,3 +1,3 @@
-# CS50x-web-track
+# Flask
 
-To Do Web App built with Python Flask, Jinja, HTML, CSS, and Javascript
+I built 2 web apps to complement my learnings of HTML, CSS, Bootstrap, Javascript, Flask with Python, and Jinja.
